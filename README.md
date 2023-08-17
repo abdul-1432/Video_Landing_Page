@@ -21,7 +21,7 @@ This repository contains the code and assets for a responsive video landing page
 
    ```bash
    git clone https://github.com/abdul-1432/Video_Landing_Page
-  ```
+   ```
 
 2. Navigate to the project directory:
 
