@@ -7,7 +7,7 @@ This repository contains the code and assets for a responsive video landing page
 
 ## Features
 
-- **Responsive Design:** The landing page is built using responsive design principles, ensuring a seamless experience across different devices and screen sizes.
+- **Responsive Design:** The landing page uses responsive design principles, ensuring a seamless experience across different devices and screen sizes.
 
 - **Video Integration:** Easily integrate your video or video series into the landing page. The page supports embedding videos from platforms such as YouTube, Vimeo, or self-hosted videos.
 
@@ -20,7 +20,7 @@ This repository contains the code and assets for a responsive video landing page
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/video-landing-page.git
+   git clone https://github.com/abdul-1432/Video_Landing_Page
    ```
 
 2. Navigate to the project directory:
@@ -38,10 +38,6 @@ This repository contains the code and assets for a responsive video landing page
 6. Optionally, you can replace the `screenshot.png` file with a screenshot of your video or landing page.
 
 7. Open the `index.html` file in a web browser to see the video landing page in action.
-
-## Demo
-
-Check out the live demo of the video landing page [here](https://yourusername.github.io/video-landing-page).
 
 ## License
 
@@ -61,10 +57,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 *Disclaimer: This project is intended for educational and demonstration purposes only. The video content used in the demo is for illustration purposes and may be subject to copyright restrictions. Make sure to replace it with your own content before deploying the landing page.*
 
-*Created by [Your Name](https://yourwebsite.com)*
+*Created by [Mohammad Abdul Gafoor](#)*
 
-*Last updated: Month Day, Year*
+*Last updated: 17/08, 2023*
 
 ---
-
-Please make sure to update the placeholders (such as `yourusername`, `Your Name`, `https://yourwebsite.com`, etc.) with your actual information before using this Readme template.
