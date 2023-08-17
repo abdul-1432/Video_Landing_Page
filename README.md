@@ -1,5 +1,7 @@
 # Video Landing Page
 
+![1](https://github.com/abdul-1432/Video_Landing_Page/assets/124916666/6e246697-2191-4345-92ca-701ce96c1c70)
+![2](https://github.com/abdul-1432/Video_Landing_Page/assets/124916666/7a283aed-3321-4b10-b842-d95af469fb96)
 
 This repository contains the code and assets for a responsive video landing page. The landing page is designed to showcase a video or video series with an engaging and user-friendly interface. It provides a clean and modern design that adapts to various screen sizes, making it accessible to users on desktop, tablet, and mobile devices.
 
